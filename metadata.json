@@ -1,0 +1,7 @@
+{
+  "name": "Plumeria Kitchen | Espresso",
+  "description": "A luxury cafe and bistro experience featuring a premium menu, interactive explorer, and event highlights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
