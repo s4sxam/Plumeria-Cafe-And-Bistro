@@ -10,7 +10,7 @@ const __dirname = path.dirname(__filename);
 
 export default defineConfig({
   // This ensures the site works correctly on username.github.io/repo-name/
-  base: './', 
+  base: '/', 
   server: {
     port: 3000,
     host: '0.0.0.0',
